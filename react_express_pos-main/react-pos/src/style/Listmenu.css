@@ -1,0 +1,8 @@
+.box-menu {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 14px;
+}
+
+.box-menu-title {
+    border-radius: 0px 0px 14px 14px;
+}

@@ -1,0 +1,15 @@
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+    flex-direction: column !important;
+
+}
+
+.css-cveggr-MuiListItemIcon-root {
+    min-width: 0px !important;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .menu {
+        display: none;
+    }
+}
